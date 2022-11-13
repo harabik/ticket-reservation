@@ -1,0 +1,42 @@
+body
+{
+	background-color:#999;		
+}
+#titre
+{
+	font-size:36px;
+	font-weight:bold;
+	color:#F00;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+fieldset
+{	
+	background-color:#CCC;
+	width:40%;
+	margin:auto;
+	border-color:#990099;
+}
+legend
+{
+	color:#0FF;
+	font-size:24px;
+	font-weight:bold;
+}
+.A1
+{	
+	font-weight:bold;
+ 	text-decoration:underline;
+}
+.A2
+{
+	font-style:italic;
+	font-weight:bold;
+}
+#prix
+{
+	font-weight:bold;
+	color:#F00;
+}
+.credit span{
+    color:var(--main-color);
+}
